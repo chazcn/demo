@@ -11,3 +11,4 @@ Git demo
 
 * Online commit
 * In-team commit by ***chazme***
+* Cross-team commit by ***unidim***
