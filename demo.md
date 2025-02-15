@@ -3,5 +3,6 @@ Git demo
 
 * First version
 * Second version
-* Hotfix commit
+* Hotfix 1st commit
+* Hotfix 2nd commit
 
