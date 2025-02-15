@@ -7,3 +7,6 @@ Git demo
 * Third version
 * Hotfix 2nd commit
 
+---
+
+* Online commit
